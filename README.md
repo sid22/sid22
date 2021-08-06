@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as SDE-1 in [Innovaccer](https://innovaccer.com/)
-- 👯 I’m looking to collaborate on web development and cybersecurity projects
+- 🔭 I’m currently working as Software Engineer at [Rubrik](https://www.rubrik.com/)
+- 👯 I’m looking to collaborate on web development, cybersecurity and file system projects
 - 📫 How to reach me: [goyal.siddharth22@gmail.com](mailto:goyal.siddharth22@gmail.com) | [contact@sid22.dev](mailto:contact@sid22.dev)
 - ⚡ Fun fact: My favorite book is *The Adventures of Tom Sawyer*
 
