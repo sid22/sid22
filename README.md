@@ -1,3 +1,5 @@
+<!--
+
 ### Hi there 👋
 
 - 🔭 I’m currently working as Software Engineer at [Rubrik](https://www.rubrik.com/)
@@ -5,7 +7,6 @@
 - 📫 How to reach me: [goyal.siddharth22@gmail.com](mailto:goyal.siddharth22@gmail.com) | [contact@sid22.dev](mailto:contact@sid22.dev)
 - ⚡ Fun fact: My favorite book is *The Adventures of Tom Sawyer*
 
-<!--
 **sid22/sid22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
